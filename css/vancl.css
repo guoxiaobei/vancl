@@ -1,0 +1,185 @@
+.wrap{width:1200px;margin:0 auto;}
+.head{height: 31px;line-height: 31px;color: #808080;
+	font-size: 12px;font-family: "宋体";background: #f7f7f7;
+}
+.clear{
+	clear: both;
+}
+.head .headright{width: 320px;float: right;height: 31px;}
+.head a{color: #808080;}
+.head a:hover{color:#b11916}
+.head .headleft{width:122px;float: right;}
+.headleft #wei{
+	position: relative;
+}
+.headleft #erweima{
+	position: absolute;
+	top:20px;
+	right: 16px;
+	z-index: 2;
+	display: none;
+}
+
+
+.searchTab{
+	height: 54px;
+	margin:28px 70px 0px 70px;
+	
+}
+.searchTab .search{
+	width: 322px;
+	height:27px;
+	float: right;
+
+}
+.search input{
+	width: 261px;
+	height: 27px;
+	padding: 0 5px;
+	border:1px solid #808080;
+	outline: none;
+	float: left;
+}
+.search button{
+	height: 29px;
+	width: 49px;
+	background: #b11916;
+	color:#fff;
+	font-size: 14px;
+	line-height: 29px;
+	text-align: center;
+	border:none;
+	float: left;
+}
+.searchwrap .buyCar{height: 29px;line-height: 29px;
+	text-align: center;float: right;}
+.searchwrap .buyCar #cafather{
+	display: inline-block;
+	width: 107px;
+	height: 29px;
+	background: #b11916;
+	color: #fff;
+	margin-left:20px;
+}
+.searchwrap .buyCar #car{
+	width: 325px;
+	height: 167px;
+	border:1px solid #b11916;
+	position: absolute;
+	right: 111px;
+	top:90px;
+	z-index: 2;
+	background: #fff;
+	padding:0 15px 11px 15px;
+	text-align: left;
+	color: #ccc;
+	display: none;
+
+}
+.searchwrap .buyCar #car .ht{
+	height: 38px;
+	line-height: 38px;
+	font-size: 12px;
+	border-bottom: 1px solid #727272;
+
+
+}
+.searchwrap .buyCar #car .hb{
+	height: 37px;
+	width: 325px;
+	float: left;
+	position: absolute;
+	bottom:0;
+	border-top:1px solid #ccc;
+	line-height: 17px;
+}
+.buyCar #line{
+
+	width: 251px;
+	height: 1px;
+	position: absolute;
+	background: #b81c22;
+	right:219px;
+	top: 89px;
+	display:inline-block;
+	display: none;
+
+
+}
+.searchTab .hotWord{
+	width: 440px;
+	height: 18px;
+	padding: 5px 0 0 15px;
+	position:relative;
+	left: 751px;top: 30px;
+}
+
+.hotWord p{
+	width: 440px;
+	height: 18px;
+}
+.hotWord p a{
+	padding: 0 5px;
+	color: #808080;
+}
+.hotWord a:hover{
+	color: #b11916;
+}
+.nav ul{
+	height: 22px;
+	padding: 30px 0px;
+}
+.nav li{
+	float: left;
+	width: 99px;
+	height: 22px;
+	font-size: 16px;
+	text-align: center;
+	padding: 0px 0px 2px;
+	position: relative;
+
+
+}
+.nav li span{
+	width: 1px;
+	height: 16px;
+	background: #808080;
+	line-height: 22px;
+	display:inline-block;
+	position: absolute;
+	left: 99px;
+	top: 0;
+}
+.nav li a{color: #808080;font-size: 16px;}
+.nav ul li a:hover{color: #b11916;}
+.nav li:hover{border-bottom:5px solid #b11916;}
+/**************************************************/
+
+.banner{
+	height: 535px;
+}
+.banner .box{
+	position: relative;
+	width: 1200px;
+	height: 535px;
+}
+.banner #img img{
+	position: absolute;
+	width: 1200px;
+	height: 535px;
+}
+.banner .box #dot{
+	width: 120px;
+	height: 12px;
+	position: absolute;
+	left: 46%;
+	top:500px;
+	background: #333;
+}
+/********************getMoney*************************/
+.getMoney{
+	height: 40px;
+	padding: 30px 0;
+
+}
+

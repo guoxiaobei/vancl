@@ -1,0 +1,411 @@
+.navdetail{
+    color: #000;
+    Height: 22px;
+}
+.navdetail a{
+    color:#333;;
+}
+.fixed{
+    height: 45px;
+    border-bottom: 1px solid #e5e6e6;
+    min-width: 980px;
+}
+.Expend{
+    padding:40px 0px 20px 0px;
+    width:1200px;
+    height:476px;
+}
+.Expend .MagnifierL{
+    width: 634px;
+    height: 426px;
+ /*   background: #a71d5d;*/
+    float: left;
+    position: relative;
+}
+.MagnifierL .slide{
+    width: 72px;
+    height: 415px;
+    float: left;
+    position: relative;
+    display: inline;
+  /*  background: #55a532;*/
+    top:-8px;
+
+}
+.MagnifierL .Slide{
+    width: 72px;
+    height: 415px;
+    float: left;
+    position: relative;
+    display: inline;
+    /*  background: #55a532;*/
+    overflow: hidden;
+    top:0px;
+
+}
+.slide img{
+    display: inline-block;
+    width: 68px;
+    height: 68px;
+    border: 2px solid #B4B4B4;
+    margin-top: 8px;
+}
+.upper{
+    background-image: url(../images/bg2.png);
+    background-position: -3270px 0;
+    height: 5px;
+    width: 72px;
+    position: absolute;
+    top:-17px;
+}
+.down{
+    background-image: url(../images/bg2.png);
+    background-position:0 -136px;
+    height: 5px;
+    width: 72px;
+    position: absolute;
+    bottom: 2px;
+}
+.MagnifierL .bigimg{
+    border: 1px solid black;
+    overflow: hidden;
+    width: 400px;
+    height: 400px;
+    top: -400px;
+    left: 500px;
+    position: relative;
+    display: none;
+    z-index: 33 !important;
+}
+.bigimg img{
+    width: 1600px;
+    height: 1600px;
+    position: absolute;
+    left: 0;
+    top:0;
+}
+.bowl img{
+    width: 400px;
+    height: 400px;
+}
+.bowl #tool{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    cursor: crosshair;
+    filter: alpha(opacity=60);
+    -moz-opacity: 0.6;
+    opacity: 0.6;
+    background-color: #e6eaf3;
+    border: 1px solid White;
+    left: 0px;
+    top: 200px;
+    display: none;
+}
+
+.MagnifierL  .bowl{
+    width: 400px;
+    height: 400px;
+    float: right;
+    display: inline;
+    margin: 0 80px;
+    border:1px solid #e5e6e6;
+    position: relative;
+}
+.Expend .MagnifierR{
+    width: 561px;
+    height: 398px;
+    background: #a5d;
+    float: left;
+    margin-top: -6px;
+}
+.MagnifierR .cash{
+    width: 561px;
+    height: 43px;
+    background:pink;
+    padding-top: 10px;
+}
+.cash .cuxiaoprice{
+    color: #A10000;
+    width: 521px;
+    height: 26px;
+}
+.cuxiaoprice .price{
+    width: 120px;height: 26px;line-height: 26px
+}
+.price .pr{
+    width:36px;height: 36px;float: left;line-height: 40px;
+}
+.price .pR{
+    width:102px;height: 26px;float: left;
+}
+.price .pR .pri{
+    font-family: Tahoma;font-size: 24px;
+}
+.cuxiaoprice .charge{
+    float: left;
+    height: 26px;
+    display: inline-block;
+    margin-left: 20px;
+    line-height: 26px;
+    margin-top: 7px;
+    color: #a10000;
+    width: 127px;
+    height: 26px;
+}
+.MagnifierR .condition{
+    width: 561px;
+    height: 244px;
+    background: palegoldenrod;
+    margin-top: -2px;
+}
+.condition .color{
+    width: 561px;
+    height: 50px;
+    padding-top: 10px;
+    background: powderblue;
+}
+.color li{
+    cursor: pointer;
+    border: 1px solid #B4B4B4;
+    display: inline;
+    float: left;
+    height: 40px;
+    margin: 0px 8px 8px 0px;
+    width: 95px;
+    position: relative;
+    padding:2px 1px 1px 1px;
+}
+.color li  .span{
+    display: block;
+    float: left;
+    width: 36px;
+    height: 36px;
+    margin: 1px 0px 0px 1px;
+    overflow: hidden;
+    cursor: pointer;
+    background: url(../images/detail-shirt-bg.jpg)
+}
+.condition .color li .colorHoverok{
+    display: block;
+    width: 14px;
+    height: 13px;
+    background: url(../images/bg2.png);
+    background-position:-1151px 0 !important;
+    position: absolute;
+    right: 1px;
+    bottom: 1px;
+    width: 14px;
+    height: 13px;
+}
+.condition .color .Li{
+   border:2px solid #a10000;
+}
+
+.ul li:hover{border:1px solid #a10000}
+
+
+.color li  p{
+    color: #666;
+    display: inline;
+    float: left;
+    line-height: 16px;
+    margin-left: 6px;
+    padding-top: 4px;
+    width: 46px;
+    overflow: hidden;
+    height: 34px;
+    cursor: pointer;
+
+}
+.condition .size{
+    width: 561px;
+    height: 32px;
+    overflow: hidden;
+    margin-bottom: 15px;
+    margin-top: 12px;
+}
+.size .danpinColorTitle{
+    float: left;
+    color: #666666;
+    line-height: 22px;
+    padding-bottom: 10px;
+    width: 36px;
+    height: 22px;
+}
+.size .danpinColorTitle p{
+    width: 36px;
+    height: 22px;
+}
+.size .selSize {
+    width: 335px;
+    height: 31px;
+    float: left;
+}
+.size .selSize ul li{
+    background: #FFFFFF;
+    color: #333333;
+    cursor: pointer;
+    padding: 0px;
+    display: inline;
+    float: left;
+    height: 24px;
+    line-height: 22px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    position: relative;
+
+}
+.size .selSize ul li p {
+    display: block;
+    float: left;
+    height: 22px;
+    margin: 1px 1px 0px 1px;
+    background: #fff;
+    padding: 0 9px;
+    width: auto;
+    border: 2px solid #a10000;
+}
+.size .selSize ul li span {
+    width: 14px;
+    height: 13px;
+    background: url(../images/bg2.png) no-repeat scroll;
+    background-position: -1151px 0;
+    position: absolute;
+    bottom: 1px;
+    right: 1px;
+    _right: 2px;
+}
+
+.condition .num{
+    width: 561px;
+    height: 35px;
+    background: palegreen;
+}
+.num .danpinColorTitle {
+    float: left;
+    color: #666666;
+    line-height: 22px;
+    padding-bottom: 10px;
+   width: 36px;
+    height: 18px;
+}
+.num .danpinnumSelect {
+    float: left;
+    overflow: hidden;
+}
+.danpinnumSelect select {
+    height: 20px;
+    line-height: 20px;
+    width: 53px;
+}
+.danpinnumSelect #comeon {
+    color: #a10000;
+    margin-left: 10px;
+    display: none;
+}
+
+option {
+    font-weight: normal;
+    display: block;
+    white-space: pre;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+}
+.danpinColorTitle {
+    float: left;
+    color: #666666;
+    line-height: 22px;
+    padding-bottom: 10px;
+}
+.condition .already {
+    padding-bottom: 15px;
+    width: 400px;
+    height: 22px;
+    background:peru;
+}
+.already p{
+    float: left;
+    width: 36px;
+    height: 22px;
+    line-height: 22px;
+    color: #666;
+}
+.already .span1{
+    float: left;
+    height: 22px;
+    line-height: 22px;
+    color: #666666;
+    font-weight: bold;
+}
+.already .span3{
+    width: 50px;
+    height: 22px;
+    color: #a10000;
+    margin-left: 15px;
+    line-height: 22px;
+}
+.already .span2{
+    float: left;
+    height: 22px;
+    line-height: 22px;
+    color: #666666;
+    font-weight: bold;
+}
+.already .dot{
+    float: left;
+    width: 12px;
+    text-align: center;
+    height: 22px;
+    line-height: 22px;
+    color: #666666;
+    font-weight: bold;
+}
+.condition .btn{
+    width: 349px;
+    height: 33px;
+    background: darkred;
+    padding-bottom: 20px;
+}
+.btnnowbuy {
+    background: #F7ABAF;
+    width: 166px;
+    height: 31px;
+    display: block;
+    float: left;
+    margin-right: 13px;
+    border: solid 1px rgb(183, 27, 33);
+}
+#nowbuy span {
+    margin-left: 60px;
+    margin-top: 9px;
+    display: block;
+    font-size: 14px;
+    color: #A50309;
+}
+.btnaddtocart {
+    background: url(../images/buycar.png) no-repeat scroll -147px -285px;
+    width: 168px;
+    height: 33px;
+    display: block;
+    float: left;
+}
+.MagnifierR .sale{
+    width: 561px;
+    height: 70px;
+    background: plum;
+    margin-top: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

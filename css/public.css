@@ -1,0 +1,7 @@
+html,body,ul,li,span,a,p,div,img,h3,h2,h4,h1{padding: 0;margin:0;}
+.wrap{width:1200px;margin:0 auto;}
+body{font-size: 12px;font-family: "宋体";}
+.fr{float:right;}
+.fl{float:left;}
+ul,li{list-style: none;}
+a{text-decoration: none;}

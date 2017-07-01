@@ -1,0 +1,262 @@
+
+[
+{
+	"imgSrc":"shirt2.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"2.jpg",
+	"describe":["长袖T恤","轻弹修身","女款","白色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+
+{
+	"imgSrc":"3.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"4.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"5.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"售价：199元",
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"6.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"7.jpg",
+	"describe":["长袖T恤","轻弹修身","女款","白色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+
+{
+	"imgSrc":"8.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"9.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"10.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"11.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"12.jpg",
+	"describe":["长袖T恤","轻弹修身","女款","白色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+
+{
+	"imgSrc":"13.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"14.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"15.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"16.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"17.jpg",
+	"describe":["长袖T恤","轻弹修身","女款","白色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+
+{
+	"imgSrc":"18.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"19.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"20.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"21.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"22.jpg",
+	"describe":["长袖T恤","轻弹修身","女款","白色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+
+{
+	"imgSrc":"23.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"24.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"25.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"26.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+{
+	"imgSrc":"27.jpg",
+	"describe":["长袖T恤","轻弹修身","女款","白色"],
+	"price":"22元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+},
+
+{
+	"imgSrc":"28.jpg",
+	"describe":["T恤","短袖宽松","男款","灰绿色"],
+	"price":"199元",
+	"deposit":"19元",
+	"presale":"168元",
+	"discount":"84元"
+
+}
+]

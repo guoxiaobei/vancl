@@ -1,0 +1,179 @@
+.wrapper {
+    margin: 0 auto;
+    width: 980px;
+}
+#header {
+    border-bottom: 1px solid #7A7F89;
+    padding-top: 15px;
+    width: 980px;
+    height: 39px;
+
+}
+a.logo {
+    float: left;
+    display: block;
+    height: 39px;
+    width: 311px;
+}
+a.logo img{
+    height: 39px;
+    width: 311px;
+}
+.help-center, .account {
+    float: right;
+    line-height: 39px;
+}
+.help-center a{
+    color: #333;
+}
+.account {
+    margin-right: 40px;
+    color: #666;
+    width: 215px;
+    height: 39px;
+}
+.account p{
+    width: 215px;
+    height: 39px;
+}
+.account a, a.login {
+    color: #a10000;
+    padding: 0 5px;
+}
+#location {
+    background: url(../images/car2.gif);
+    background-position: 0 0;
+    height: 28px;
+    width: 540px;
+    margin-top: 10px;
+}
+#location em, #location span {
+    color: #666;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 28px;
+    text-align: center;
+    width: 170px;
+}
+.H2{
+    width: 935px;
+    height: 30px;
+    padding-left: 45px;
+
+}
+.H2 h2{
+    line-height: 38px;
+    margin-right: 8px;
+    width: 98px;
+    height: 38px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.tip {
+    margin-top: 6px;
+    color: #656565;
+    line-height: 20px;
+}
+.tip span{
+    color: #a10000 !important;
+}
+/******************product*****thead***************************/
+.product{
+    width: 980px;
+    height: 277px;
+    margin-top: 10px;
+}
+.product #proall{
+    width: 980px;
+    height: auto;
+    border: 1px solid #000;
+}
+.import img{
+    width: 50px !important;
+    height: 50px !important;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+thead tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.product .title-white {
+    font-size: 0;
+    line-height: 0;
+    overflow: hidden;
+    table-layout: fixed;
+    width: 15px;
+}
+thead th{
+    border-top: 1px solid #DCDFE4;
+     border-bottom: 1px solid #B7B7B7;
+}
+#cart-product th, #remove-product th {
+    border-top: 1px solid #DCDFE4;
+    border-bottom: 1px solid #B7B7B7;
+}
+.bd-left {
+    border-left: 1px solid #DCDFE4;
+}
+table th {
+    height: 35px;
+}
+table th, table td {
+    text-align: center;
+    vertical-align: middle;
+}
+th {
+    background: url(../images/carA.png) repeat-x;
+}
+#cart-product .bar-title {
+    text-align: left;
+    width: 50px;
+}
+.all-products-ckb {
+    margin-right: 10px;
+}
+.ckb {
+    width: 13px;
+    height: 13px;
+}
+#cart-product .image {
+    width: 50px;
+}
+/*******************import******************************8*/
+.import{
+    width: 948px;
+    height: 70px;
+    margin:21px 16px 18px 16px;
+    background: #ccc;
+    line-height:70px;
+
+}
+.import li{
+    float: left;
+    margin-right: 40px;
+}
+.import input{
+    margin: 0 5px;
+    width: 30px;
+    height: 18px;
+    border: 1px solid #D8D8D8;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+

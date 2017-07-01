@@ -1,0 +1,484 @@
+/*******************Location***************************************/
+.Location{
+    height: 92px;
+    min-width: 1200px;
+    /*background: palevioletred;*/
+}
+.Location .location{
+    width:108px;
+    height: 40px;
+    line-height: 40px;
+    color: #b4b4b4;
+    float:left;
+}
+.Location .location a{
+    color:#333;
+}
+.Location .find{
+    height: 40px;
+    line-height: 40px;
+    color: #b4b4b4;
+    float:right;
+}
+.Location .find span{
+    color:#a00000;
+}
+.Location .selectarea{
+    width:1198px;
+    height:35px;
+    border:1px solid #C7CACD;
+    /*background:orangered;*/
+}
+.Location .selectarea .fuzhuang1{
+    width: 66px;
+    height: 34px;
+    text-align: center;
+    line-height: 34px;
+    float: left;
+}
+.Location .selectarea .fuzhuang2{
+    width:1130px;
+    height:24px;
+    padding:5px 0px;
+    border-left:1px solid #C7CACD;
+    float: left;
+}
+.Location .fuzhuang2  ul{
+    width: 1130px;
+    height: 24px;
+    line-height:24px;
+}
+.Location .fuzhuang2 li{
+    float: left;
+    margin-left:25px;
+}
+/*******************fuzhuang2***************************************/
+.fuzhuang2 li a{
+    color: #000;
+}
+.fuzhuang2 li span{
+    color: #999;
+}
+.fuzhuang2 li a:hover{
+    color: #a00000;
+}
+/*******************fixed***************************************/
+#fixed{
+    height: 69px;
+    /*background: orangered;*/
+    min-width: 1200px;
+}
+#fixed .fixed1{
+    height: 32px;
+    background: #fff;
+    border-bottom: 2px solid #b81c22;
+}
+.fixed1 .allpro{
+    float: left;
+    cursor: pointer;
+    text-align: center;
+    color: #343434;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    padding: 0px 20px 0px;
+    margin: 1px 0px 0px -1px;
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    height: 32px;
+    line-height: 30px;
+    margin-top: 0px;
+    background: #b81c22;
+    border: none;
+}
+.fixed1 .page{
+    float: right;
+    width: 132px;
+    height: 41px;
+    line-height: 41px;
+}
+.fixed1 .page a:nth-of-type(1){
+    width: 18px;
+    height: 16px;
+    line-height: 16px;
+    display: block;
+    float: left;
+    margin-left: 12px;
+    margin-right: 10px;
+    margin-top: 11px;
+    border: 1px solid #666;
+    text-align: center;
+}
+.fixed1 .page a:nth-of-type(2){
+    width: 18px;
+    height: 16px;
+    line-height: 16px;
+    display: block;
+    float: right;
+    margin-left: 10px;
+    margin-top: 11px;
+    border: 1px solid #666;
+    text-align: center;
+}
+#fixed .fixed2{
+    height: 35px;
+    background: #fff;
+    border-top: none;
+    height: 34px;
+    position: relative;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+}
+
+#fixed .fixed2 .fcol1{
+    width:388px;
+    height: 34px;
+    /*background: #55a532;*/
+    float: left;
+}
+#fixed .fixed2 .fcol1 a{
+    color: #666;
+}
+#fixed .fixed2 .fcol1 li{
+    width: 41px;
+    height: 34px;
+    float: left;
+    height: 34px;
+    border: 1px solid #f5f5f5;
+    border-left-color: #ddd;
+    border-bottom: none;
+    border-top: none;
+    line-height: 34px;
+    padding: 0px 12px 0px 20px;
+}
+#fixed .fixed2 .fcol1 li:first-child{
+  border-left:none ;
+}
+#fixed .fixed2 .fcol1 li:last-child{
+    width: 55px;
+}
+#fixed .fixed2 .fcol2{
+    float: left;
+    width: 109px;
+    position: relative;
+    height: 32px;
+    z-index: 1;
+    margin-left: 15px;
+    display: inline;
+    margin-top: 2px;
+    border-right: 2px solid #f5f5f5;
+}
+#fixed .fixed2 input{
+    border: 1px solid #aeb1b4;
+    height: 17px;
+    line-height: 17px;
+    width: 35px;
+    padding-left: 3px;
+    float: left;
+    margin: 6px 0px 0px 6px;
+    display: inline;
+    color: #999;
+}
+#fixed .fixed2 span{
+    margin: 6px 3px 0px;
+    float: left;
+    display: inline-block;
+    line-height: 19px;
+    font-size: 19px;
+    width: 9px;
+    height: 19px;
+}
+#fixed .fixed2 .fcol3{
+     float: right;
+     height: 34px;
+     border-left: 1px solid #ccc;
+     line-height: 34px;
+     width: 88px;
+     text-align: center;
+    background: #a71d5d;
+    color: #fff;
+
+ }
+/*******************content***************************************/
+#content{
+    padding-top: 15px;
+    height: auto;
+    /*background: #865444;*/
+    margin-top: 0px;
+    float: left;
+    margin-left: 112px;
+}
+#content #Tshirt{
+    width: 1215px;
+}
+#content #Tshirt .top{
+    width: 231px;
+    height: 303px;
+    margin: 0px 12px 20px 0px;
+    float: left;
+    display: inline-block;
+    position: relative;
+}
+/*******************Tshirt***************************************/
+#Tshirt .top .topa{
+    width: 230px;
+    height: 230px;
+    display: block;
+    float: left;
+    border: 1px solid #dbd7d6;
+}
+#Tshirt .top img{
+    width: 230px;
+    height: 230px;
+
+}
+#Tshirt .bottom{
+    width: 230px;
+    height: 63px;
+    float: left;
+}
+/*******************bottoma***************************************/
+#bottoma{
+    margin-top: 10px;
+    padding: 0px 3px 5px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 13px;
+    font-family: "Microsoft YaHei";
+    height: 38px;
+    overflow: hidden;
+    display: inline-block;
+    width:225px;
+    height: 38px;
+    line-height: 38px;
+    color: #727171;
+}
+#Tshirt .top .topa:hover{
+    border: 1px solid #9f070f;
+}
+#bottoma span{
+    color:#9f070f;
+}
+
+#Tshirt .bottom p{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    width:230px;
+    height: 20px;
+    color:#9f070f;
+}
+
+#content .hide{
+    width: 290px;
+    height: 483px;
+    background-color: #e6eaf3;
+    font-size: 12px;
+    color: #999999;
+    border: 1px solid #777777;
+    z-index: 9;
+    position: absolute;
+    left:244px;
+    top:-10px;
+    display: none;
+}
+#content .hide .tip1{
+    padding: 9px 0 0px 0;
+    height: 287px;
+    text-align: center;
+    position: relative;
+    width: 270px;
+    margin: 0 auto;
+   /* background: red;*/
+}
+#content .hide .tip1 img{
+    border: 1px solid #FFFFFF;
+    vertical-align: top;
+    width: 270px;
+    height: 270px;
+}
+
+#content .hide .tip2{
+    color: #333333;
+    margin: 0px 0px 0 13px;
+    padding: 0;
+    text-align: left;
+    line-height: 24px;
+    width: 275px;
+    height: auto;
+   /* background:#63a35c;*/
+}
+#content .hide .tip2 span{
+    font-size: 14px;
+    font-weight: bold;
+    display: block;
+    width: 270px;
+    height: 24px;
+   /* background: #df5000;*/
+}
+#content .hide .tip2 em{
+    font-size: 12px;
+    display: block;
+    width: 270px;
+    height: 24px;
+    font-style: normal;
+   /* background: #795da3;*/
+}
+#content .hide .tip3{
+    width: 135px;
+    margin: 17px 0px 0px 23px;
+    float: left;
+    _margin-left: 12px;
+    border-right: 1px dotted #ccc;
+   /* background: #3e3a39;*/
+}
+#content .hide .tip3 li{
+    line-height:23px;
+}
+.tip4{
+    float: left;
+    color: #b81c22;
+    margin: 16px 0px 0px 32px;
+    line-height: 20px;
+    display: inline;
+/*    background:#8A2BE2;*/
+
+}
+.tip4 span{
+    color: #92959a;
+    display: block;
+    padding: 13px 0px 0px 0px;
+}
+.tip5{
+    width: 250px;
+    height: 36px;
+    margin: 12px 0px 0px 23px;
+    line-height: 18px;
+    color: #666;
+    height: 36px;
+    overflow: hidden;
+    position: relative;
+  /*  background: #a71d5d;*/
+}
+
+
+
+
+
+.trangle{
+    cursor: pointer;
+    display: block;
+    width: 43px;
+    height: 24px;
+    padding-left: 14px;
+    line-height: 24px;
+    border: 1px solid #efefef;
+    background: url(../images/vanclimg.png);
+    background-position: 3px -1996px;
+    float: left;
+}
+.trangle:hover{
+    background-position: 3px -2018px;
+}
+.trangle a{
+    color: #333;
+}
+.trangle a:hover{
+    color: #a00000;
+}
+.trangleR a{
+    color: #333;
+}
+.trangleR a:hover{
+    color: #a00000;
+}
+/*******************Page***************************************/
+Page{
+    height: 26px;
+}
+.page{
+    width: 481px;
+    height: 26px;
+    /*background: mediumvioletred;*/
+    float: right;
+
+}
+.page ul{
+    display: inline;
+    float: left;
+    margin-right: 7px;
+}
+.page li {
+    float: left;
+    margin-left: 7px;
+    text-align: center;
+    display: inline-block;
+    width: 26px;
+    height: 24px;
+    border: 1px solid #ededed;
+    background: none;
+    line-height: 24px;
+}
+.page li a{
+    float: left;
+    width: 26px;
+    height: 24px;
+    line-height: 24px;
+}
+.page li a:hover{
+    color: #a00000;
+}
+.trangleR{
+    cursor: pointer;
+    display: block;
+    width: 43px;
+    height: 24px;
+    padding-right: 14px;
+    line-height: 24px;
+    text-align: right;
+    border: 1px solid #efefef;
+    background: url(../images/vanclimg.png) 46px -1954px;
+    float: left;
+}
+.trangleR:hover{
+    background-position: 46px -1976px;
+}
+.page .em{
+    font-style: normal;
+    float: left;
+    width: 30px;
+    height: 14px;
+    margin: 6px 10px 0px;
+}
+.page #pageinput{
+    float: left;
+    width: 26px;
+    height: 24px;
+    border: 1px solid #ededed;
+    line-height: 24px;
+    text-align: center;
+    margin: 0px 4px;
+}
+.page .pageinput2{
+    float: right;
+    width: 49px;
+    height: 26px;
+    border: none;
+    border: 0;
+    margin-left: 10px;
+    background: url(../images/vanclimg.png) no-repeat 0px -2044px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+#backtop{
+    height: 24px;
+    width: 34px;
+    cursor: pointer;
+    background: url(../images/vanclimg.png) no-repeat 0 -2079px transparent;
+    right: 0px; position: fixed; bottom: 5px;
+}
