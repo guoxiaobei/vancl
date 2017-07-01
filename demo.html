@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        body{
+            margin:0 auto;
+        }
+        div{
+            width:200px;
+            height:500px;
+            float:left;
+            background-color:red;
+            margin:10px;
+            position:relative;
+        }
+        div span{
+            display:block;
+            width:200px;
+            height:500px;
+            overflow:hidden;
+            position:absolute;
+            background-color:yellow;
+            top:0px;
+            left:210px;
+            z-index:99;
+        }
+    </style>
+    <script type="text/javascript">
+
+        window.onload=function(){
+            var _span="<span></span>";
+            var _list=document.getElementsByTagName("div");
+            for(var i=0;i<_list.length;i++){
+                _list[i].onmouseover=function(){
+                    this.innerHTML+=_span;
+                }
+                _list[i].onmouseout=function(){
+                    this.removeChild(this.children[0]);
+                }
+            }
+        }
+
+    </script>
+</head>
+<body>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</body>
+</html>
